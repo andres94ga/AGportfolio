@@ -3,7 +3,7 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
+    title: "Movie Search Api Page",
     description: "A beautiful landing page app using React and Tailwind.",
     image: "/projects/ScreenMovie.png",
     tags: ["React", "TailwindCSS", "Supabase"],
