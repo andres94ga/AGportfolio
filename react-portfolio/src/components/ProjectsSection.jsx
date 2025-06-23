@@ -12,7 +12,7 @@ const projects = [
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "Todo App With filters",
     description: "An interactive to-do list",
     image: "/projects/TodoList.png",
     tags: ["React", "Bootstrap", "Javascript"],
