@@ -6,18 +6,17 @@ const projects = [
     title: "Movie Search Api Page",
     description: "A beautiful landing page app using React and Tailwind.",
     image: "/projects/ScreenMovie.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
+    tags: ["React", "TailwindCSS", "Javascript"],
     demoUrl: "https://react-movie-8e7v.vercel.app/",
     githubUrl: "#",
   },
   {
     id: 2,
     title: "Orbit Analytics Dashboard",
-    description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
-    image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
-    demoUrl: "#",
+    description: "An interactive to-do list",
+    image: "/projects/TodoList.png",
+    tags: ["React", "Bootstrap", "Javascript"],
+    demoUrl: "https://react-todo-app-ten-navy.vercel.app/",
     githubUrl: "#",
   },
   {
