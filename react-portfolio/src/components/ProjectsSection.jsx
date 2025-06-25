@@ -21,12 +21,12 @@ const projects = [
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "Mini E-commerce plant",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
+      "E-commerce platform using React js, css, and hooks",
+    image: "/projects/EcommercePlants.png",
     tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
+    demoUrl: "https://mini-ecommerce-hhbn-git-master-andres-projects-c3c8d440.vercel.app/",
     githubUrl: "#",
   },
 ];
