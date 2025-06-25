@@ -8,7 +8,7 @@ const projects = [
     image: "/projects/ScreenMovie.png",
     tags: ["React", "TailwindCSS", "Javascript"],
     demoUrl: "https://react-movie-8e7v.vercel.app/",
-    githubUrl: "#",
+    githubUrl: "https://github.com/andres94ga/ReactMovie",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const projects = [
     image: "/projects/TodoList.png",
     tags: ["React", "Bootstrap", "Javascript"],
     demoUrl: "https://react-todo-app-ten-navy.vercel.app/",
-    githubUrl: "#",
+    githubUrl: "https://github.com/andres94ga/React-Todo-App",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const projects = [
     image: "/projects/EcommercePlants.png",
     tags: ["React", "Node.js", "Stripe"],
     demoUrl: "https://mini-ecommerce-hhbn-git-master-andres-projects-c3c8d440.vercel.app/",
-    githubUrl: "#",
+    githubUrl: "https://github.com/andres94ga/miniEcommerce/tree/master/Plants-shop",
   },
 ];
 
@@ -99,7 +99,7 @@ export const ProjectsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://github.com/machadop1407"
+            href="https://github.com/andres94ga"
           >
             Check My Github <ArrowRight size={16} />
           </a>
